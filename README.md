@@ -10,4 +10,4 @@
 ###### age - Age (day)
 
 ### Dependent:
-strength - Concrete compressive strength(MPa, megapascals) 
+##### strength - Concrete compressive strength(MPa, megapascals) 
