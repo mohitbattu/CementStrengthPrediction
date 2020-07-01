@@ -1,5 +1,5 @@
 # Cement_Strength_Prediction
-###Independent:
+### Independent:
 cement - Cement (component 1)(kg in a m^3 mixture)
 blast - Blast Furnace Slag (component 2)(kg in a m^3 mixture)
 flyash - Fly Ash (component 3)(kg in a m^3 mixture)
